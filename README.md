@@ -4,7 +4,7 @@ A simple lightweight way to organize your collection of books, records, video ga
 
 Pre-requisites: g++ 
 
-How to use:
+# How to use:
 
 Windows: Write g++ add.cpp -o add.exe in your command prompt and then add <sentence> (use _ instead of whitespaces, they will be replaced by the program) 
 
